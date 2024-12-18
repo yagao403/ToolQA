@@ -4,7 +4,9 @@ from enum import Enum
 import tiktoken
 import openai
 import time
-from langchain import OpenAI, Wikipedia
+# from langchain import OpenAIChat, Wikipedia
+
+from langchain_openai import ChatOpenAI
 from langchain.llms.base import BaseLLM
 from langchain.agents.react.base import DocstoreExplorer
 from langchain.docstore.base import Docstore
@@ -33,6 +35,7 @@ class ReflexionStrategy(Enum):
 
 class CoTAgent:
     def __init__(self,
+                   
                     question: str,
                     context: str,
                     key: str,
@@ -40,13 +43,13 @@ class CoTAgent:
                     reflect_prompt: PromptTemplate = cot_reflect_prompt,
                     cot_examples: str = COT,
                     reflect_examples: str = COT_REFLECT,
-                    self_reflect_llm: BaseLLM = OpenAI(
+                    self_reflect_llm: BaseLLM = ChatOpenAI(
                                             temperature=0,
                                             max_tokens=250,
                                             model_name="gpt-3.5-turbo",
                                             model_kwargs={"stop": "\n"},
                                             openai_api_key=os.environ['OPENAI_API_KEY']),
-                    action_llm: BaseLLM = OpenAI(
+                    action_llm: BaseLLM = ChatOpenAI(
                                             temperature=0,
                                             max_tokens=250,
                                             model_name="gpt-3.5-turbo",
@@ -242,7 +245,7 @@ class CoTAgent:
         print(self.reflections_str)
     
     def prompt_reflection(self) -> str:
-        return format_step(self.self_reflect_llm(self._build_reflection_prompt()))
+        return format_step(self.self_reflect_llm(self._build_reflection_prompt()).content)
 
     def reset(self) -> None:
         
@@ -250,7 +253,7 @@ class CoTAgent:
         self.finished = False
 
     def prompt_agent(self) -> str:
-        return format_step(self.action_llm(self._build_agent_prompt()))
+        return format_step(self.action_llm(self._build_agent_prompt()).content)
     
     def _build_agent_prompt(self) -> str:
         return self.agent_prompt.format(
@@ -280,7 +283,7 @@ class ReactAgent:
                  key: str,
                  max_steps: int = 20,
                  agent_prompt: PromptTemplate = react_agent_prompt,
-                 react_llm: BaseLLM = OpenAI(
+                 react_llm: BaseLLM = ChatOpenAI(
                                             temperature=0,
                                             max_tokens=100,
                                             model_name="gpt-3.5-turbo",
@@ -316,6 +319,7 @@ class ReactAgent:
             self.step()
     
     def step(self) -> None:
+        print('Step:', self.step_n)
         # Think
         self.scratchpad += f'\nThought {self.step_n}:'
         self.scratchpad += ' ' + self.prompt_agent()
@@ -471,9 +475,11 @@ class ReactAgent:
         self.step_n += 1
         
     def prompt_agent(self) -> str:
-        return format_step(self.llm(self._build_agent_prompt()))
+        print('Prompting agent...')
+        return format_step(self.llm(self._build_agent_prompt()).content)
     
     def _build_agent_prompt(self) -> str:
+        print('Building agent prompt...')
         return self.agent_prompt.format(
                             examples = self.react_examples,
                             question = self.question,
@@ -504,17 +510,17 @@ class ReactReflectAgent(ReactAgent):
                  max_steps: int = 20,
                  agent_prompt: PromptTemplate = react_reflect_agent_prompt,
                  reflect_prompt: PromptTemplate = reflect_prompt,
-                 react_llm: BaseLLM = OpenAI(
+                 react_llm: BaseLLM = ChatOpenAI(
                                              temperature=0,
                                              max_tokens=100,
                                              model_name="text-davinci-003",
                                              model_kwargs={"stop": "\n"},
-                                             openai_api_key=os.environ['OPENAI_API_KEY']),
-                 reflect_llm: BaseLLM = OpenAI(
+                                             openai_api_key=os.get_env('OPENAI_API_KEY')),
+                 reflect_llm: BaseLLM = ChatOpenAI(
                                                temperature=0,
                                                max_tokens=250,
                                                model_name="text-davinci-003",
-                                               openai_api_key=os.environ['OPENAI_API_KEY']),
+                                               openai_api_key=os.get_env('OPENAI_API_KEY')),
                  ) -> None:
         
         super().__init__(question, key, max_steps, agent_prompt, react_llm)
@@ -548,7 +554,7 @@ class ReactReflectAgent(ReactAgent):
         print(self.reflections_str)
     
     def prompt_reflection(self) -> str:
-        return format_step(self.reflect_llm(self._build_reflection_prompt()))
+        return format_step(self.reflect_llm(self._build_reflection_prompt()).content)
 
     def _build_reflection_prompt(self) -> str:
         return self.reflect_prompt.format(

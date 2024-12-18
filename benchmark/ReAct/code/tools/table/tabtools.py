@@ -7,7 +7,7 @@ class table_toolkits():
     # init
     def __init__(self, path):
         self.data = None
-        self.path = path
+        self.path = "/Users/gaoya/Project/agent/benchmark_data/toolQA"
 
     def db_loader(self, target_db):
         if target_db == 'flights':

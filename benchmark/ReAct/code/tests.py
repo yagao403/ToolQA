@@ -10,16 +10,15 @@ current_datetime = datetime.datetime.now()
 datetime_string = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
 
 # root = '{}/benchmark/ReAct/root'
-
 parser = argparse.ArgumentParser("")
 parser.add_argument("--dataset", type=str, default="flights")
 parser.add_argument("--hardness", type=str, default="easy")
-parser.add_argument("--openai_api_key", type=str, default="<OPENAI_API_KEY>")
-parser.add_argument("--path", type=str, default="<YOUR_OWN_PATH>")
-parser.add_argument("--wolframalpha_api_key", type=str, default="<WOLFALPHA_API_KEY>")
+parser.add_argument("--openai_api_key", type=str, default="")
+parser.add_argument("--path", type=str, default="/Users/gaoya/Project/agent/ToolQA")
+parser.add_argument("--wolframalpha_api_key", type=str, default="")
 parser.add_argument("--debug", type=bool, default=False)
 parser.add_argument("--debug_id", type=int, default=0)
-parser.add_argument("--gpt", type=str, default="gpt3")
+parser.add_argument("--gpt", type=str, default="chatgpt")
 parser.add_argument("--prompt", type=str, default="easy")
 args = parser.parse_args()
 root = '{}/benchmark/ReAct/root'.format(args.path)
@@ -37,6 +36,8 @@ with open(file_path, 'r') as f:
     for item in jsonlines.Reader(f):
         contents.append(item)
 
+contents = contents[:1] # test with 1 questions
+
 if args.debug:
     random_indices = args.debug_id
     test_q = contents[random_indices]['question']
@@ -48,8 +49,8 @@ if args.debug:
     print("Ground-Truth: ", test_a)
 else:
     if not os.path.exists('{}/benchmark/ReAct/logs/{}-{}/{}-{}'.format(args.path, args.gpt, datetime_string, args.dataset, args.hardness)):
-        os.makedirs('{}/benchmark/ReAct/logs/{}-{}/{}-{}-{}'.format(args.path, args.gpt, datetime_string, args.dataset, args.hardness))
-        logs_dir = '{}/benchmark/ReAct/logs/{}-{}/{}-{}-{}'.format(args.path, args.gpt, datetime_string, args.dataset, args.hardness)
+        os.makedirs('{}/benchmark/ReAct/logs/{}-{}/{}-{}'.format(args.path, args.gpt, datetime_string, args.dataset, args.hardness))
+        logs_dir = '{}/benchmark/ReAct/logs/{}-{}/{}-{}'.format(args.path, args.gpt, datetime_string, args.dataset, args.hardness)
     agent_cls = ReactAgent
 
     n = 1
@@ -68,18 +69,19 @@ else:
 BEGIN TRIAL {contents[i]['qid']}
 #######################################
 """
-            log += remove_fewshot(agent._build_agent_prompt()) + f'\nCorrect answer: {agent.key}\n\n'
+            log += agent._build_agent_prompt() + f'\nCorrect answer: {agent.key}\n\n'
             with open(os.path.join(logs_dir, contents[i]['qid']+'.txt'), 'w') as f:
                 f.write(log)
-        except:
+        except Exception as e:
             print('Error when computing answer for {}.'.format(contents[i]['qid']))
+            print(e.with_traceback())
             print('---------')
             log = f"""
 ########################################
 BEGIN TRIAL {contents[i]['qid']}
 #######################################
 """
-            log += remove_fewshot(agent._build_agent_prompt()) + f'\nCorrect answer: {agent.key}\n\n'
+            log += agent._build_agent_prompt() + f'\nCorrect answer: {agent.key}\n\n'
             log += 'ERROR!'
             with open(os.path.join(logs_dir, contents[i]['qid']+'.txt'), 'w') as f:
                 f.write(log)
