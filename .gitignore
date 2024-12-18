@@ -2,3 +2,5 @@
 /data/external_corpus/
 /benchmark/ReAct/root/
 /data/chroma_db/
+/benchmark/ReAct/code/__pycache__/
+/benchmark/ReAct/logs/
