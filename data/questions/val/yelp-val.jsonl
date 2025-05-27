@@ -1,0 +1,20 @@
+{"qid":"easy-yelp-0008","question":"What is the address of Best Auto Detailz in area with postal code T6B 3C5?","answer":"6916 68 Avenue NW","type":"address"}
+{"qid":"easy-yelp-0010","question":"Which city is Ali Baba Cafe & Hookah Bar located in PA?","answer":"Philadelphia","type":"city"}
+{"qid":"easy-yelp-0023","question":"What state is Sun Ray Grill located in?","answer":"LA","type":"state"}
+{"qid":"easy-yelp-0036","question":"What is the postal code of China in Bombay in Ballwin, MO?","answer":"63011","type":"postal code"}
+{"qid":"easy-yelp-0039","question":"What is the star rating of Perenn Bakery in area with postal code 89511, Reno, NV?","answer":"4.5","type":"star rating"}
+{"qid":"easy-yelp-0052","question":"How many reviews does Iron Hill Brewery TapHouse receive in the area with postal code 19341, Exton, PA, received?","answer":"41","type":"how many reviews"}
+{"qid":"easy-yelp-0055","question":"Is Melodies Cafe still open in area with postal code 19003, Ardmore, PA?","answer":"No","type":"yes or no - openning"}
+{"qid":"easy-yelp-0067","question":"Does Santa Barbara Brewery Tours require appointment in area with postal code 93101, Santa Barbara, CA?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0074","question":"What are the hours of operation for Smoothie King in area with postal code 33781, Pinellas Park, FL?","answer":"Monday: 0:0-0:0, Tuesday: 7:0-21:0, Wednesday: 7:0-19:0, Thursday: 10:0-16:0, Friday: 7:0-19:0, Saturday: 9:0-20:0, Sunday: 11:0-18:0","type":"hours of operation"}
+{"qid":"easy-yelp-0090","question":"What categories does Orvelle Nails & Spa belong to, in area with postal code 37027, Brentwood, TN?","answer":"Beauty & Spas, Nail Salons","type":"categories"}
+{"qid":"easy-yelp-0093","question":"What are the coordinates of Ada County in area with postal code 83704, Boise, ID?","answer":"43.6089445, -116.2873523","type":"coordinates"}
+{"qid":"hard-yelp-0003","question":"How many Southern businesses are there in Glenolden, PA?","answer":1,"type":"how many business"}
+{"qid":"hard-yelp-0019","question":"How many businesses are there in T5P 2S1 area of Edmonton, AB?","answer":1,"type":"business in total"}
+{"qid":"hard-yelp-0028","question":"Which Formal Wear business has the highest star rating in Deptford, NJ?","answer":"Men's Wearhouse","type":"highest star rating"}
+{"qid":"hard-yelp-0031","question":"Which Imported Food business has the highest review count in Santa Barbara, CA?","answer":"El Sitio","type":"highest review count"}
+{"qid":"hard-yelp-0049","question":"What is the average review counts of businesses within a 5-mile radius from Studio 210 Salon?","answer":"37.40","type":"average review counts"}
+{"qid":"hard-yelp-0055","question":"Which is the nearest Divorce & Family Law business to Clearwater Dental Associates?","answer":"Carey Leisure & Neal","type":"nearest business"}
+{"qid":"hard-yelp-0066","question":"Can you recommend a Shipping Centers business with the highest star rating within a 5-mile radius of 5930 Daley St?","answer":"One Stop Hauling & Courier Services","type":"business recommendation"}
+{"qid":"hard-yelp-0078","question":"How many businesses are not open currently in Franconia?","answer":0,"type":"business not open"}
+{"qid":"hard-yelp-0085","question":"What is the average star rating of Car Buyers businesses in Woodbury?","answer":2.0,"type":"average star rating"}

@@ -1,0 +1,20 @@
+{"qid":"easy-flight-0003","question":"What was the departure time of the DL891 flight from SEA to LAX on 2022-01-22?","answer":"11:54","type":"flight departure time"}
+{"qid":"easy-flight-0010","question":"Was the flight DL5097 from MLU to ATL cancelled on 2022-02-05?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0023","question":"What is the flight number of the Alaska Airlines Inc. flight from RDU to SEA on 2022-06-18?","answer":"905, 1309","type":"flight number"}
+{"qid":"easy-flight-0033","question":"How long was the different between the CRS recorded departure time and actual departure time of the B6792 flight from TPA to BOS on 2022-01-13?","answer":"44","type":"time difference"}
+{"qid":"easy-flight-0042","question":"How long did AS218 delay when arrival on 2022-03-24? If there are multiple delay times, report the sum of them.","answer":"26.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0056","question":"How many extra minutes did the WN1415 flight take from ATL to LGA on 2022-01-02?","answer":"-4.0","type":"extra minutes"}
+{"qid":"easy-flight-0064","question":"What was the local arrival time of the B61168 flight from PBI to HPN on 2022-01-05?","answer":"23:44","type":"local arrival time"}
+{"qid":"easy-flight-0070","question":"What was the CRS-recorded arrival time of the AA2733 flight from DFW to LAX on 2022-01-30?","answer":"23:59","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0083","question":"How long was the flight DL441 from DTW to ATL on 2022-05-09?","answer":"81","type":"flight duration"}
+{"qid":"easy-flight-0098","question":"How many minutes did the DL4967 flight take to taxi in on 2022-04-13?","answer":"9","type":"minutes taking to taxi in"}
+{"qid":"hard-flight-0005","question":"What percentage of the flights from ORD were canceled on 2022-06-13?","answer":"6.9%","type":"percentage"}
+{"qid":"hard-flight-0019","question":"What is the average delay time of all the flights that departed from RDU on 2022-04-02?","answer":"26.6","type":"average delay time"}
+{"qid":"hard-flight-0024","question":"How many flights were diverted on 2022-01-19?","answer":"54","type":"diverted flights"}
+{"qid":"hard-flight-0038","question":"How many flights with a distance greater than 300 miles on 2022-05-21?","answer":"14135","type":"flights with long distance"}
+{"qid":"hard-flight-0052","question":"How many unique flights from MSO to DEN host by Frontier Airlines Inc.?","answer":1,"type":"flights from A to B"}
+{"qid":"hard-flight-0066","question":"What is the average flight time of WN6267?","answer":"136.2","type":"average flight time"}
+{"qid":"hard-flight-0075","question":"What is the fastest flight from BIH to SFO on Wednesday?","answer":"UA4639","type":"fastest flight"}
+{"qid":"hard-flight-0086","question":"What is the average speed of AA5165 from TRI to CLT (miles per minute)?","answer":"3.9","type":"average speed"}
+{"qid":"hard-flight-0042","question":"What is the average airtime of the flights from ITO to OGG host by Hawaiian Airlines Inc.?","answer":"24.9","type":"average airtime"}
+{"qid":"hard-flight-0098","question":"What is the total number of flights operated by Alaska Airlines Inc. on 2022-03-02?","answer":"567","type":"total number"}

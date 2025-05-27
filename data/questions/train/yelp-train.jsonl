@@ -1,0 +1,101 @@
+{"qid":"easy-yelp-0007","question":"What is the address of Domino's Pizza in area with postal code 08103?","answer":"446 S Broadway","type":"address"}
+{"qid":"easy-yelp-0001","question":"What is the address of Smilies in area with postal code T5V 1H9?","answer":"15003 118 Ave","type":"address"}
+{"qid":"easy-yelp-0005","question":"What is the address of Level Seven Salon in area with postal code 19460?","answer":"427 Schuylkill Rd","type":"address"}
+{"qid":"easy-yelp-0003","question":"What is the address of FedEx Office Print & Ship Center in area with postal code 33612?","answer":"2798 E Fowler Ave","type":"address"}
+{"qid":"easy-yelp-0004","question":"What is the address of Walmart Supercenter in area with postal code 37211?","answer":"5824 Nolensville Pike, 4040 Nolensville Pike","type":"address"}
+{"qid":"easy-yelp-0002","question":"What is the address of Cutting Edge Upholstery Solutions in area with postal code 33611?","answer":"4338 S Manhattan Ave","type":"address"}
+{"qid":"easy-yelp-0016","question":"Which city is Knapp's Cyclery located in NJ?","answer":"Trenton","type":"city"}
+{"qid":"easy-yelp-0017","question":"Which city is Francis The Duke Barber Co. located in PA?","answer":"Philadelphia","type":"city"}
+{"qid":"easy-yelp-0018","question":"Which city is Whitewater Park Apartments located in ID?","answer":"Boise","type":"city"}
+{"qid":"easy-yelp-0012","question":"Which city is Mi Hacienda Mexican Restaurant located in IN?","answer":"Carmel","type":"city"}
+{"qid":"easy-yelp-0011","question":"Which city is The Pink Daisy located in PA?","answer":"Yardley","type":"city"}
+{"qid":"easy-yelp-0022","question":"What state is Luna Hair located in?","answer":"PA","type":"state"}
+{"qid":"easy-yelp-0020","question":"What state is America Bar & Grill located in?","answer":"PA","type":"state"}
+{"qid":"easy-yelp-0025","question":"What state is Fence USA located in?","answer":"NJ","type":"state"}
+{"qid":"easy-yelp-0024","question":"What state is China Bowl Restaurant located in?","answer":"PA","type":"state"}
+{"qid":"easy-yelp-0019","question":"What state is Gelato Aromi located in?","answer":"PA","type":"state"}
+{"qid":"easy-yelp-0028","question":"What is the postal code of Ceviche Tapas Bar & Restaurant in Clearwater, FL?","answer":"33759","type":"postal code"}
+{"qid":"easy-yelp-0035","question":"What is the postal code of J & S Mechanical in Hendersonville, TN?","answer":"37075","type":"postal code"}
+{"qid":"easy-yelp-0031","question":"What is the postal code of Arby's in Troy, IL?","answer":"62294","type":"postal code"}
+{"qid":"easy-yelp-0029","question":"What is the postal code of Josette Tkacik in Santa Barbara, CA?","answer":"93101","type":"postal code"}
+{"qid":"easy-yelp-0032","question":"What is the postal code of Snoozy's Cafe in Schwenksville, PA?","answer":"19473","type":"postal code"}
+{"qid":"easy-yelp-0041","question":"What is the star rating of Rural King in area with postal code 62226, Swansea, IL?","answer":"2.5","type":"star rating"}
+{"qid":"easy-yelp-0038","question":"What is the star rating of Homeward Bound Veterinary Services in area with postal code 89523, Reno, NV?","answer":"5.0","type":"star rating"}
+{"qid":"easy-yelp-0043","question":"What is the star rating of The Scented Leaf in area with postal code 85701, Tucson, AZ?","answer":"4.5","type":"star rating"}
+{"qid":"easy-yelp-0040","question":"What is the star rating of Hermann London Real Estate Group in area with postal code 63143, St. Louis, MO?","answer":"3.0","type":"star rating"}
+{"qid":"easy-yelp-0042","question":"What is the star rating of Red Mango in area with postal code 19153, Philadelphia, PA?","answer":"3.0","type":"star rating"}
+{"qid":"easy-yelp-0053","question":"How many reviews does Cherokee Store receive in the area with postal code 33611, Tampa, FL, received?","answer":"9","type":"how many reviews"}
+{"qid":"easy-yelp-0050","question":"How many reviews does Number 1 Beauty Supply receive in the area with postal code 19143, Philadelphia, PA, received?","answer":"7","type":"how many reviews"}
+{"qid":"easy-yelp-0047","question":"How many reviews does Le Onde Ristorante receive in the area with postal code 19027, Elkins Park, PA, received?","answer":"19","type":"how many reviews"}
+{"qid":"easy-yelp-0046","question":"How many reviews does South Shore Dental Excellence receive in the area with postal code 33534, Gibsonton, FL, received?","answer":"10","type":"how many reviews"}
+{"qid":"easy-yelp-0048","question":"How many reviews does Las Cebollas Mexican Grill receive in the area with postal code 37115, Madison, TN, received?","answer":"7","type":"how many reviews"}
+{"qid":"easy-yelp-0062","question":"Is A & D Automotive Center still open in area with postal code 33602, Tampa, FL?","answer":"Yes","type":"yes or no - openning"}
+{"qid":"easy-yelp-0056","question":"Is Potter Family Eye Care still open in area with postal code 46055, McCordsville, IN?","answer":"Yes","type":"yes or no - openning"}
+{"qid":"easy-yelp-0060","question":"Is The Farmacy NJ still open in area with postal code 08065, Palmyra, NJ?","answer":"No","type":"yes or no - openning"}
+{"qid":"easy-yelp-0063","question":"Is William Whitfield Park still open in area with postal code 37211, Nashville, TN?","answer":"Yes","type":"yes or no - openning"}
+{"qid":"easy-yelp-0059","question":"Is Westampton Family Diner still open in area with postal code 08060, Mount Holly, NJ?","answer":"Yes","type":"yes or no - openning"}
+{"qid":"easy-yelp-0065","question":"Does Tequila Sunrise require appointment in area with postal code 46038, Fishers, IN?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0070","question":"Does Dentists On Washington require appointment in area with postal code 19147, Philadelphia, PA?","answer":"Yes","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0069","question":"Does Franklin's Classic Steaks & Hoagies require appointment in area with postal code 19468, Limerick, PA?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0068","question":"Does Mi Jalapeno require appointment in area with postal code 62269, O'Fallon, IL?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0066","question":"Does Nordvind Resort require appointment in area with postal code 33706, Treasure Is, FL?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0076","question":"What are the hours of operation for Ms Goody Cupcake in area with postal code 19148, Philadelphia, PA?","answer":"Tuesday: 11:0-19:0, Wednesday: 11:0-19:0, Thursday: 11:0-19:0, Friday: 11:0-21:0, Saturday: 11:0-21:0","type":"hours of operation"}
+{"qid":"easy-yelp-0073","question":"What are the hours of operation for Panera Bread in area with postal code 33566, Plant City, FL?","answer":"Monday: 7:0-20:30, Tuesday: 7:0-20:30, Wednesday: 7:0-20:30, Thursday: 7:0-20:30, Friday: 7:0-20:30, Saturday: 7:0-20:30, Sunday: 7:0-20:30","type":"hours of operation"}
+{"qid":"easy-yelp-0080","question":"What are the hours of operation for Jimmy John's in area with postal code 62269, O'Fallon, IL?","answer":"Monday: 11:0-22:0, Tuesday: 11:0-22:0, Wednesday: 11:0-22:0, Thursday: 11:0-22:0, Friday: 11:0-22:0, Saturday: 11:0-22:0, Sunday: 11:0-22:0","type":"hours of operation"}
+{"qid":"easy-yelp-0075","question":"What are the hours of operation for K9 Athletic Club in area with postal code 63110, Saint Louis, MO?","answer":"Monday: 6:30-18:30, Tuesday: 6:30-18:30, Wednesday: 6:30-18:30, Thursday: 6:30-18:30, Friday: 6:30-18:30, Saturday: 9:0-17:0","type":"hours of operation"}
+{"qid":"easy-yelp-0077","question":"What are the hours of operation for Briggs Auction in area with postal code 19060, Garnet Valley, PA?","answer":"Thursday: 16:0-19:0, Friday: 9:0-23:0","type":"hours of operation"}
+{"qid":"easy-yelp-0085","question":"What categories does Tacos Jalisco belong to, in area with postal code 89502, Reno, NV?","answer":"Mexican, Restaurants","type":"categories"}
+{"qid":"easy-yelp-0082","question":"What categories does The Piper Pub & Grill belong to, in area with postal code 83702, Boise, ID?","answer":"Nightlife, Pubs, Bars, American (Traditional), Restaurants","type":"categories"}
+{"qid":"easy-yelp-0089","question":"What categories does Baily's Dairy belong to, in area with postal code 19382, West Chester, PA?","answer":"Food, Specialty Food","type":"categories"}
+{"qid":"easy-yelp-0084","question":"What categories does Two Men and a Truck St. Louis East belong to, in area with postal code 62234, Collinsville, IL?","answer":"Home Services, Movers, Shopping, Packing Services, Packing Supplies","type":"categories"}
+{"qid":"easy-yelp-0083","question":"What categories does Clemens Chimney Sweep belong to, in area with postal code 19053, Feasterville Trevose, PA?","answer":"Chimney Sweeps, Home Services, Masonry\/Concrete, Contractors","type":"categories"}
+{"qid":"easy-yelp-0097","question":"What are the coordinates of Zachs Famous Donair in area with postal code T6K 3L6, Edmonton, AB?","answer":"53.4722697, -113.4504354","type":"coordinates"}
+{"qid":"easy-yelp-0098","question":"What are the coordinates of Nicholson Cleaners in area with postal code 37203, Nashville, TN?","answer":"36.1483514, -86.8079997","type":"coordinates"}
+{"qid":"easy-yelp-0092","question":"What are the coordinates of Kary's Beauty Salon in area with postal code 19148, Philadelphia, PA?","answer":"39.9288599, -75.1566897","type":"coordinates"}
+{"qid":"easy-yelp-0096","question":"What are the coordinates of D & B Tailors in area with postal code 19073, Newtown Square, PA?","answer":"39.9875334, -75.4001299","type":"coordinates"}
+{"qid":"easy-yelp-0099","question":"What are the coordinates of NTB-National Tire & Battery in area with postal code 37027, Brentwood, TN?","answer":"35.9617839364, -86.8168482184","type":"coordinates"}
+{"qid":"hard-yelp-0009","question":"How many Auto Glass Services businesses are there in Saint Petersburg, FL?","answer":5,"type":"how many business"}
+{"qid":"hard-yelp-0000","question":"How many Home Organization businesses are there in Franklin, TN?","answer":4,"type":"how many business"}
+{"qid":"hard-yelp-0002","question":"How many Tours businesses are there in Wayne, PA?","answer":1,"type":"how many business"}
+{"qid":"hard-yelp-0004","question":"How many Brewpubs businesses are there in Lumberton, NJ?","answer":1,"type":"how many business"}
+{"qid":"hard-yelp-0005","question":"How many Wedding Planning businesses are there in Cinnaminson, NJ?","answer":1,"type":"how many business"}
+{"qid":"hard-yelp-0007","question":"How many Wholesale Stores businesses are there in Boise, ID?","answer":7,"type":"how many business"}
+{"qid":"hard-yelp-0017","question":"How many businesses are there in T8H 2A2 area of Sherwood Park, AB?","answer":3,"type":"business in total"}
+{"qid":"hard-yelp-0015","question":"How many businesses are there in T5N 1R1 area of Edmonton, AB?","answer":3,"type":"business in total"}
+{"qid":"hard-yelp-0011","question":"How many businesses are there in T5L 2L4 area of Edmonton, AB?","answer":1,"type":"business in total"}
+{"qid":"hard-yelp-0010","question":"How many businesses are there in 18917 area of Dublin, PA?","answer":25,"type":"business in total"}
+{"qid":"hard-yelp-0012","question":"How many businesses are there in 19120 area of Philadelphia, PA?","answer":161,"type":"business in total"}
+{"qid":"hard-yelp-0018","question":"How many businesses are there in 08026 area of Gibbsboro, NJ?","answer":18,"type":"business in total"}
+{"qid":"hard-yelp-0026","question":"Which Videos & Video Game Rental business has the highest star rating in Nashville, TN?","answer":"Gamestop","type":"highest star rating"}
+{"qid":"hard-yelp-0029","question":"Which Bars business has the highest star rating in Magnolia, NJ?","answer":"The Laughing Fox Tavern","type":"highest star rating"}
+{"qid":"hard-yelp-0024","question":"Which French business has the highest star rating in Indian Rocks Beach, FL?","answer":"Cafe de Paris Bakery","type":"highest star rating"}
+{"qid":"hard-yelp-0022","question":"Which Restaurants business has the highest star rating in Affton, MO?","answer":"Sushi Hana","type":"highest star rating"}
+{"qid":"hard-yelp-0020","question":"Which Dentists business has the highest star rating in Wenonah, NJ?","answer":"Nester & Wyckoff General Dentistry","type":"highest star rating"}
+{"qid":"hard-yelp-0021","question":"Which Sandwiches business has the highest star rating in Garnet Valley, PA?","answer":"Lancaster County Sausage","type":"highest star rating"}
+{"qid":"hard-yelp-0036","question":"Which Pet Stores business has the highest review count in Oakville, MO?","answer":"Treats Unleashed","type":"highest review count"}
+{"qid":"hard-yelp-0034","question":"Which Restaurants business has the highest review count in Fortville, IN?","answer":"Simeri's Italian","type":"highest review count"}
+{"qid":"hard-yelp-0038","question":"Which Sushi Bars business has the highest review count in Carpinteria, CA?","answer":"Sushi Teri","type":"highest review count"}
+{"qid":"hard-yelp-0037","question":"Which Movers business has the highest review count in Cherry Hill, NJ?","answer":"All My Sons Moving & Storage","type":"highest review count"}
+{"qid":"hard-yelp-0030","question":"Which Condominiums business has the highest review count in Tampa, FL?","answer":"The Place At Channelside","type":"highest review count"}
+{"qid":"hard-yelp-0033","question":"Which Diagnostic Imaging business has the highest review count in New Orleans, LA?","answer":"All American Healthcare New Orleans","type":"highest review count"}
+{"qid":"hard-yelp-0041","question":"What is the average review counts of businesses within a 5-mile radius from Residence Inn Tampa Suncoast Parkway at NorthPointe Village?","answer":28.08,"type":"average review counts"}
+{"qid":"hard-yelp-0044","question":"What is the average review counts of businesses within a 5-mile radius from Sublime Yoga and Wellness?","answer":"45.92","type":"average review counts"}
+{"qid":"hard-yelp-0045","question":"What is the average review counts of businesses within a 5-mile radius from Duvall Flooring?","answer":"48.89","type":"average review counts"}
+{"qid":"hard-yelp-0052","question":"Which is the nearest Orthopedists business to TNS Diamonds?","answer":"Benjamin's On the Row","type":"nearest business"}
+{"qid":"hard-yelp-0051","question":"Which is the nearest Cooking Classes business to 5-Star Staffing Solutions?","answer":"Sur La Table","type":"nearest business"}
+{"qid":"hard-yelp-0058","question":"Which is the nearest Preschools business to Cumberland Transit?","answer":"Primrose School of Nashville Midtown","type":"nearest business"}
+{"qid":"hard-yelp-0050","question":"Which is the nearest Chinese business to Sugar Mamas Custom Cakes?","answer":"Hong Kong Restaurant","type":"nearest business"}
+{"qid":"hard-yelp-0062","question":"Can you recommend a Restaurants business with the highest star rating within a 5-mile radius of 540 Simpson Dr?","answer":"San Marco Pasta","type":"business recommendation"}
+{"qid":"hard-yelp-0065","question":"Can you recommend a Automotive business with the highest star rating within a 5-mile radius of 75 Queensway Dr?","answer":"Take 5 Oil Change","type":"business recommendation"}
+{"qid":"hard-yelp-0076","question":"How many businesses are not open currently in Washington Township?","answer":2,"type":"business not open"}
+{"qid":"hard-yelp-0075","question":"How many businesses are not open currently in Glen Carbon?","answer":3,"type":"business not open"}
+{"qid":"hard-yelp-0074","question":"How many businesses are not open currently in Mt Laurel Township?","answer":0,"type":"business not open"}
+{"qid":"hard-yelp-0070","question":"How many businesses are not open currently in Lawnside?","answer":2,"type":"business not open"}
+{"qid":"hard-yelp-0077","question":"How many businesses are not open currently in McCordsville?","answer":0,"type":"business not open"}
+{"qid":"hard-yelp-0079","question":"How many businesses are not open currently in Maryland Heights?","answer":37,"type":"business not open"}
+{"qid":"hard-yelp-0087","question":"What is the average star rating of Arts & Entertainment businesses in Florissant?","answer":2.5,"type":"average star rating"}
+{"qid":"hard-yelp-0083","question":"What is the average star rating of Asian Fusion businesses in Ladue?","answer":3.0,"type":"average star rating"}
+{"qid":"hard-yelp-0082","question":"What is the average star rating of Body Shops businesses in Brentwood?","answer":3.1,"type":"average star rating"}
+{"qid":"hard-yelp-0086","question":"What is the average star rating of Local Services businesses in Mount Holly?","answer":3.4,"type":"average star rating"}
+{"qid":"hard-yelp-0088","question":"What is the average star rating of Structural Engineers businesses in Philadelphia?","answer":1.0,"type":"average star rating"}
+{"qid":"hard-yelp-0080","question":"What is the average star rating of Limos businesses in St. Ann?","answer":5.0,"type":"average star rating"}

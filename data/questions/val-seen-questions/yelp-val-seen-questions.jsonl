@@ -1,0 +1,14 @@
+{"qid":"easy-yelp-0010","question":"Which city is Ali Baba Cafe & Hookah Bar located in PA?","answer":"Philadelphia","type":"city"}
+{"qid":"easy-yelp-0022","question":"What state is Luna Hair located in?","answer":"PA","type":"state"}
+{"qid":"easy-yelp-0029","question":"What is the postal code of Josette Tkacik in Santa Barbara, CA?","answer":"93101","type":"postal code"}
+{"qid":"easy-yelp-0046","question":"How many reviews does South Shore Dental Excellence receive in the area with postal code 33534, Gibsonton, FL, received?","answer":"10","type":"how many reviews"}
+{"qid":"easy-yelp-0057","question":"Is Denny's still open in area with postal code T6L 7A7, Edmonton, AB?","answer":"Yes","type":"yes or no - openning"}
+{"qid":"easy-yelp-0065","question":"Does Tequila Sunrise require appointment in area with postal code 46038, Fishers, IN?","answer":"No","type":"yes or no - appointment"}
+{"qid":"easy-yelp-0073","question":"What are the hours of operation for Panera Bread in area with postal code 33566, Plant City, FL?","answer":"Monday: 7:0-20:30, Tuesday: 7:0-20:30, Wednesday: 7:0-20:30, Thursday: 7:0-20:30, Friday: 7:0-20:30, Saturday: 7:0-20:30, Sunday: 7:0-20:30","type":"hours of operation"}
+{"qid":"easy-yelp-0082","question":"What categories does The Piper Pub & Grill belong to, in area with postal code 83702, Boise, ID?","answer":"Nightlife, Pubs, Bars, American (Traditional), Restaurants","type":"categories"}
+{"qid":"hard-yelp-0000","question":"How many Home Organization businesses are there in Franklin, TN?","answer":4,"type":"how many business"}
+{"qid":"hard-yelp-0026","question":"Which Videos & Video Game Rental business has the highest star rating in Nashville, TN?","answer":"Gamestop","type":"highest star rating"}
+{"qid":"hard-yelp-0032","question":"Which Windshield Installation & Repair business has the highest review count in Lutz, FL?","answer":"Gerber Collision & Glass","type":"highest review count"}
+{"qid":"hard-yelp-0052","question":"Which is the nearest Orthopedists business to TNS Diamonds?","answer":"Benjamin's On the Row","type":"nearest business"}
+{"qid":"hard-yelp-0069","question":"Can you recommend a Restaurants business with the highest star rating within a 5-mile radius of 2 Engineer Rd?","answer":"Petri Cafe","type":"business recommendation"}
+{"qid":"hard-yelp-0073","question":"How many businesses are not open currently in Tarpon springs?","answer":0,"type":"business not open"}

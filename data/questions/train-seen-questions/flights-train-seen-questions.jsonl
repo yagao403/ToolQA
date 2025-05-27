@@ -1,0 +1,126 @@
+{"qid":"easy-flight-0027","question":"What is the flight number of the Delta Air Lines Inc. flight from BOS to MCO on 2022-06-06?","answer":"1400, 1555, 2974","type":"flight number"}
+{"qid":"easy-flight-0020","question":"What is the flight number of the SkyWest Airlines Inc. flight from IAH to PIB on 2022-06-24?","answer":"5107","type":"flight number"}
+{"qid":"easy-flight-0029","question":"What is the flight number of the Southwest Airlines Co. flight from ONT to LAS on 2022-07-08?","answer":"1452, 1683, 2007, 2078, 2663","type":"flight number"}
+{"qid":"easy-flight-0022","question":"What is the flight number of the Mesa Airlines Inc. flight from IAH to RDU on 2022-01-12?","answer":"6081","type":"flight number"}
+{"qid":"easy-flight-0025","question":"What is the flight number of the Southwest Airlines Co. flight from MIA to BWI on 2022-02-11?","answer":"159, 836, 1185, 1647","type":"flight number"}
+{"qid":"easy-flight-0026","question":"What is the flight number of the Frontier Airlines Inc. flight from SJU to MCO on 2022-07-14?","answer":"111, 105, 107","type":"flight number"}
+{"qid":"easy-flight-0021","question":"What is the flight number of the Delta Air Lines Inc. flight from MCO to LGA on 2022-04-30?","answer":"2873, 1176, 1340, 2398","type":"flight number"}
+{"qid":"easy-flight-0024","question":"What is the flight number of the Commutair Aka Champlain Enterprises, Inc. flight from CHO to IAD on 2022-01-07?","answer":"4258","type":"flight number"}
+{"qid":"easy-flight-0023","question":"What is the flight number of the Alaska Airlines Inc. flight from RDU to SEA on 2022-06-18?","answer":"905, 1309","type":"flight number"}
+{"qid":"easy-flight-0030","question":"How long was the different between the CRS recorded departure time and actual departure time of the DL5273 flight from JFK to CVG on 2022-03-29?","answer":"5","type":"time difference"}
+{"qid":"easy-flight-0032","question":"How long was the different between the CRS recorded departure time and actual departure time of the DL3826 flight from LAX to ABQ on 2022-06-15?","answer":"6","type":"time difference"}
+{"qid":"easy-flight-0038","question":"How long was the different between the CRS recorded departure time and actual departure time of the AA1235 flight from DFW to LAX on 2022-07-31?","answer":"3","type":"time difference"}
+{"qid":"easy-flight-0037","question":"How long was the different between the CRS recorded departure time and actual departure time of the UA3430 flight from EWR to RDU on 2022-06-10?","answer":"11","type":"time difference"}
+{"qid":"easy-flight-0034","question":"How long was the different between the CRS recorded departure time and actual departure time of the DL5233 flight from MSP to CVG on 2022-07-21?","answer":"53","type":"time difference"}
+{"qid":"easy-flight-0039","question":"How long was the different between the CRS recorded departure time and actual departure time of the UA3831 flight from SBN to ORD on 2022-06-13?","answer":"16","type":"time difference"}
+{"qid":"easy-flight-0036","question":"How long was the different between the CRS recorded departure time and actual departure time of the AA2020 flight from TPA to CLT on 2022-02-07?","answer":"3","type":"time difference"}
+{"qid":"easy-flight-0035","question":"How long was the different between the CRS recorded departure time and actual departure time of the DL712 flight from ATL to IND on 2022-06-08?","answer":"2","type":"time difference"}
+{"qid":"easy-flight-0033","question":"How long was the different between the CRS recorded departure time and actual departure time of the B6792 flight from TPA to BOS on 2022-01-13?","answer":"44","type":"time difference"}
+{"qid":"easy-flight-0044","question":"How long did WN4822 delay when arrival on 2022-07-30? If there are multiple delay times, report the sum of them.","answer":"2.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0046","question":"How long did WN2519 delay when arrival on 2022-02-21? If there are multiple delay times, report the sum of them.","answer":"3.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0043","question":"How long did AA4631 delay when arrival on 2022-06-27? If there are multiple delay times, report the sum of them.","answer":"19.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0045","question":"How long did G42595 delay when arrival on 2022-04-03? If there are multiple delay times, report the sum of them.","answer":"62.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0047","question":"How long did DL3541 delay when arrival on 2022-04-24? If there are multiple delay times, report the sum of them.","answer":"399.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0049","question":"How long did AS3388 delay when arrival on 2022-02-12? If there are multiple delay times, report the sum of them.","answer":"28.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0048","question":"How long did UA5864 delay when arrival on 2022-01-24? If there are multiple delay times, report the sum of them.","answer":"0.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0040","question":"How long did UA3449 delay when arrival on 2022-03-24? If there are multiple delay times, report the sum of them.","answer":"15.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0042","question":"How long did AS218 delay when arrival on 2022-03-24? If there are multiple delay times, report the sum of them.","answer":"26.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0019","question":"Was the flight AA2289 from MIA to LAX cancelled on 2022-02-20?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0014","question":"Was the flight UA3981 from TVC to ORD cancelled on 2022-03-18?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0018","question":"Was the flight AA5566 from CLT to LEX cancelled on 2022-01-20?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0011","question":"Was the flight AS715 from EWR to SEA cancelled on 2022-03-11?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0017","question":"Was the flight WN2465 from SAN to DEN cancelled on 2022-01-10?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0012","question":"Was the flight UA2106 from LAS to IAH cancelled on 2022-02-05?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0013","question":"Was the flight AA6152 from CHO to CLT cancelled on 2022-07-06?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0015","question":"Was the flight UA348 from OGG to ORD cancelled on 2022-06-29?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0010","question":"Was the flight DL5097 from MLU to ATL cancelled on 2022-02-05?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0058","question":"How many extra minutes did the AA5027 flight take from DCA to PWM on 2022-04-12?","answer":"0.0","type":"extra minutes"}
+{"qid":"easy-flight-0052","question":"How many extra minutes did the WN1749 flight take from MKE to DCA on 2022-05-23?","answer":"-1.0","type":"extra minutes"}
+{"qid":"easy-flight-0054","question":"How many extra minutes did the WN2361 flight take from AUS to FLL on 2022-06-16?","answer":"-11.0","type":"extra minutes"}
+{"qid":"easy-flight-0050","question":"How many extra minutes did the WN2522 flight take from ECP to ATL on 2022-03-27?","answer":"-10.0","type":"extra minutes"}
+{"qid":"easy-flight-0057","question":"How many extra minutes did the AA1855 flight take from AUS to SJU on 2022-07-13?","answer":"13.0","type":"extra minutes"}
+{"qid":"easy-flight-0059","question":"How many extra minutes did the DL5698 flight take from DCA to JFK on 2022-07-01?","answer":"16.0","type":"extra minutes"}
+{"qid":"easy-flight-0053","question":"How many extra minutes did the B6257 flight take from BOS to BZN on 2022-03-26?","answer":"0.0","type":"extra minutes"}
+{"qid":"easy-flight-0055","question":"How many extra minutes did the HA73 flight take from ONT to HNL on 2022-01-13?","answer":"0.0","type":"extra minutes"}
+{"qid":"easy-flight-0056","question":"How many extra minutes did the WN1415 flight take from ATL to LGA on 2022-01-02?","answer":"-4.0","type":"extra minutes"}
+{"qid":"easy-flight-0065","question":"What was the local arrival time of the UA5415 flight from IAH to COS on 2022-07-21?","answer":"11:10","type":"local arrival time"}
+{"qid":"easy-flight-0066","question":"What was the local arrival time of the WN1360 flight from BWI to LAS on 2022-01-23?","answer":"8:10","type":"local arrival time"}
+{"qid":"easy-flight-0063","question":"What was the local arrival time of the NK1314 flight from FLL to DEN on 2022-06-11?","answer":"22:53","type":"local arrival time"}
+{"qid":"easy-flight-0062","question":"What was the local arrival time of the UA504 flight from IAD to LAX on 2022-01-28?","answer":"8:57","type":"local arrival time"}
+{"qid":"easy-flight-0060","question":"What was the local arrival time of the NK143 flight from BQN to MCO on 2022-02-16?","answer":"5:52","type":"local arrival time"}
+{"qid":"easy-flight-0061","question":"What was the local arrival time of the WN6075 flight from DEN to ATL on 2022-01-07?","answer":"17:31","type":"local arrival time"}
+{"qid":"easy-flight-0067","question":"What was the local arrival time of the DL4872 flight from TYS to LGA on 2022-03-28?","answer":"16:43","type":"local arrival time"}
+{"qid":"easy-flight-0068","question":"What was the local arrival time of the AA2281 flight from DFW to SAT on 2022-03-08?","answer":"19:03","type":"local arrival time"}
+{"qid":"easy-flight-0064","question":"What was the local arrival time of the B61168 flight from PBI to HPN on 2022-01-05?","answer":"23:44","type":"local arrival time"}
+{"qid":"easy-flight-0073","question":"What was the CRS-recorded arrival time of the WN1111 flight from SJC to LAS on 2022-05-02?","answer":"16:40","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0075","question":"What was the CRS-recorded arrival time of the UA2240 flight from ORD to CHS on 2022-07-29?","answer":"22:07","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0076","question":"What was the CRS-recorded arrival time of the AA6104 flight from SYR to BOS on 2022-06-20?","answer":"20:10","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0072","question":"What was the CRS-recorded arrival time of the NK1697 flight from OAK to LAS on 2022-05-24?","answer":"22:29","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0079","question":"What was the CRS-recorded arrival time of the UA4425 flight from EWR to DCA on 2022-06-29?","answer":"8:17","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0071","question":"What was the CRS-recorded arrival time of the B61075 flight from PVD to MCO on 2022-02-11?","answer":"19:23","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0074","question":"What was the CRS-recorded arrival time of the G42148 flight from SAV to CVG on 2022-07-08?","answer":"8:05","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0078","question":"What was the CRS-recorded arrival time of the AA1683 flight from CLT to DTW on 2022-03-17?","answer":"9:02","type":"CRS-recorded arrival time"}
+{"qid":"easy-flight-0070","question":"What was the CRS-recorded arrival time of the AA2733 flight from DFW to LAX on 2022-01-30?","answer":"23:59","type":"CRS-recorded arrival time"}
+{"qid":"hard-flight-0006","question":"What percentage of the flights from LAW were canceled on 2022-04-24?","answer":"50.0%","type":"percentage"}
+{"qid":"hard-flight-0008","question":"What percentage of the flights from MDW were canceled on 2022-01-04?","answer":"13.8%","type":"percentage"}
+{"qid":"hard-flight-0001","question":"What percentage of the flights from JAC were canceled on 2022-02-24?","answer":"11.1%","type":"percentage"}
+{"qid":"hard-flight-0009","question":"What percentage of the flights from CLE were canceled on 2022-04-09?","answer":"4.8%","type":"percentage"}
+{"qid":"hard-flight-0003","question":"What percentage of the flights from HPN were canceled on 2022-01-30?","answer":"37.1%","type":"percentage"}
+{"qid":"hard-flight-0002","question":"What percentage of the flights from DEN were canceled on 2022-02-02?","answer":"15.0%","type":"percentage"}
+{"qid":"hard-flight-0004","question":"What percentage of the flights from STT were canceled on 2022-03-19?","answer":"4.0%","type":"percentage"}
+{"qid":"hard-flight-0007","question":"What percentage of the flights from PIT were canceled on 2022-01-28?","answer":"9.6%","type":"percentage"}
+{"qid":"hard-flight-0005","question":"What percentage of the flights from ORD were canceled on 2022-06-13?","answer":"6.9%","type":"percentage"}
+{"qid":"hard-flight-0017","question":"What is the average delay time of all the flights that departed from PSG on 2022-07-27?","answer":"0.0","type":"average delay time"}
+{"qid":"hard-flight-0015","question":"What is the average delay time of all the flights that departed from PSG on 2022-02-06?","answer":"0.0","type":"average delay time"}
+{"qid":"hard-flight-0011","question":"What is the average delay time of all the flights that departed from PBG on 2022-07-31?","answer":"0.0","type":"average delay time"}
+{"qid":"hard-flight-0010","question":"What is the average delay time of all the flights that departed from ERI on 2022-01-18?","answer":"23.5","type":"average delay time"}
+{"qid":"hard-flight-0018","question":"What is the average delay time of all the flights that departed from FAT on 2022-06-10?","answer":"25.2","type":"average delay time"}
+{"qid":"hard-flight-0014","question":"What is the average delay time of all the flights that departed from BRW on 2022-03-09?","answer":"19.0","type":"average delay time"}
+{"qid":"hard-flight-0016","question":"What is the average delay time of all the flights that departed from SCK on 2022-06-03?","answer":"50.5","type":"average delay time"}
+{"qid":"hard-flight-0013","question":"What is the average delay time of all the flights that departed from SUX on 2022-07-12?","answer":"0.0","type":"average delay time"}
+{"qid":"hard-flight-0019","question":"What is the average delay time of all the flights that departed from RDU on 2022-04-02?","answer":"26.6","type":"average delay time"}
+{"qid":"hard-flight-0026","question":"How many flights were diverted on 2022-03-01?","answer":"16","type":"diverted flights"}
+{"qid":"hard-flight-0028","question":"How many flights were diverted on 2022-07-10?","answer":"69","type":"diverted flights"}
+{"qid":"hard-flight-0024","question":"How many flights were diverted on 2022-01-19?","answer":"54","type":"diverted flights"}
+{"qid":"hard-flight-0022","question":"How many flights were diverted on 2022-05-11?","answer":"33","type":"diverted flights"}
+{"qid":"hard-flight-0020","question":"How many flights were diverted on 2022-01-14?","answer":"34","type":"diverted flights"}
+{"qid":"hard-flight-0021","question":"How many flights were diverted on 2022-01-05?","answer":"30","type":"diverted flights"}
+{"qid":"hard-flight-0023","question":"How many flights were diverted on 2022-04-23?","answer":"31","type":"diverted flights"}
+{"qid":"hard-flight-0025","question":"How many flights were diverted on 2022-04-18?","answer":"26","type":"diverted flights"}
+{"qid":"hard-flight-0027","question":"How many flights were diverted on 2022-04-02?","answer":"41","type":"diverted flights"}
+{"qid":"hard-flight-0061","question":"What is the average flight time of NK2062?","answer":"119.1","type":"average flight time"}
+{"qid":"hard-flight-0062","question":"What is the average flight time of AA5297?","answer":"73.0","type":"average flight time"}
+{"qid":"hard-flight-0068","question":"What is the average flight time of DL1271?","answer":"84.4","type":"average flight time"}
+{"qid":"hard-flight-0064","question":"What is the average flight time of G41931?","answer":"98.6","type":"average flight time"}
+{"qid":"hard-flight-0069","question":"What is the average flight time of DL4939?","answer":"70.6","type":"average flight time"}
+{"qid":"hard-flight-0065","question":"What is the average flight time of AA3262?","answer":"46.7","type":"average flight time"}
+{"qid":"hard-flight-0060","question":"What is the average flight time of G41015?","answer":"192.5","type":"average flight time"}
+{"qid":"hard-flight-0067","question":"What is the average flight time of WN6679?","answer":"147.0","type":"average flight time"}
+{"qid":"hard-flight-0066","question":"What is the average flight time of WN6267?","answer":"136.2","type":"average flight time"}
+{"qid":"hard-flight-0073","question":"What is the fastest flight from PIA to FLL on Thursday?","answer":"G4899","type":"fastest flight"}
+{"qid":"hard-flight-0071","question":"What is the fastest flight from DVL to JMS on Tuesday?","answer":"UA5045","type":"fastest flight"}
+{"qid":"hard-flight-0074","question":"What is the fastest flight from AVL to PIE on Saturday?","answer":"G4504","type":"fastest flight"}
+{"qid":"hard-flight-0076","question":"What is the fastest flight from ERI to CLT on Thursday?","answer":"AA6096","type":"fastest flight"}
+{"qid":"hard-flight-0078","question":"What is the fastest flight from DTW to CWA on Thursday?","answer":"DL5409","type":"fastest flight"}
+{"qid":"hard-flight-0079","question":"What is the fastest flight from SRQ to CLE on Monday?","answer":"F92430","type":"fastest flight"}
+{"qid":"hard-flight-0072","question":"What is the fastest flight from SLC to BIL on Monday?","answer":"DL2178","type":"fastest flight"}
+{"qid":"hard-flight-0070","question":"What is the fastest flight from BFL to DEN on Satruary?","answer":"UA5839","type":"fastest flight"}
+{"qid":"hard-flight-0075","question":"What is the fastest flight from BIH to SFO on Wednesday?","answer":"UA4639","type":"fastest flight"}
+{"qid":"hard-flight-0082","question":"What is the average speed of AA5272 from GPT to CLT (miles per minute)?","answer":"7.3","type":"average speed"}
+{"qid":"hard-flight-0081","question":"What is the average speed of WN1507 from COS to MDW (miles per minute)?","answer":"7.9","type":"average speed"}
+{"qid":"hard-flight-0085","question":"What is the average speed of DL4239 from LSE to MSP (miles per minute)?","answer":"4.1","type":"average speed"}
+{"qid":"hard-flight-0083","question":"What is the average speed of AA4086 from BPT to DFW (miles per minute)?","answer":"5.2","type":"average speed"}
+{"qid":"hard-flight-0089","question":"What is the average speed of UA5104 from JMS to DVL (miles per minute)?","answer":"3.7","type":"average speed"}
+{"qid":"hard-flight-0087","question":"What is the average speed of DL2993 from GRB to ATL (miles per minute)?","answer":"7.3","type":"average speed"}
+{"qid":"hard-flight-0088","question":"What is the average speed of DL4268 from IMT to MSP (miles per minute)?","answer":"5.3","type":"average speed"}
+{"qid":"hard-flight-0080","question":"What is the average speed of DL4130 from HPN to DTW (miles per minute)?","answer":"6.1","type":"average speed"}
+{"qid":"hard-flight-0086","question":"What is the average speed of AA5165 from TRI to CLT (miles per minute)?","answer":"3.9","type":"average speed"}
+{"qid":"hard-flight-0092","question":"What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-03-24?","answer":"195","type":"total number"}
+{"qid":"hard-flight-0097","question":"What is the total number of flights operated by American Airlines Inc. on 2022-06-08?","answer":"2532","type":"total number"}
+{"qid":"hard-flight-0095","question":"What is the total number of flights operated by Allegiant Air on 2022-04-12?","answer":"90","type":"total number"}
+{"qid":"hard-flight-0094","question":"What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-06-04?","answer":"201","type":"total number"}
+{"qid":"hard-flight-0093","question":"What is the total number of flights operated by Hawaiian Airlines Inc. on 2022-01-11?","answer":"190","type":"total number"}
+{"qid":"hard-flight-0090","question":"What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-02-01?","answer":"177","type":"total number"}
+{"qid":"hard-flight-0091","question":"What is the total number of flights operated by United Air Lines Inc. on 2022-05-27?","answer":"1765","type":"total number"}
+{"qid":"hard-flight-0099","question":"What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-02-18?","answer":"226","type":"total number"}
+{"qid":"hard-flight-0098","question":"What is the total number of flights operated by Alaska Airlines Inc. on 2022-03-02?","answer":"567","type":"total number"}

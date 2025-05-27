@@ -1,0 +1,60 @@
+{"qid":"easy-flight-0086","question":"How long was the flight WN327 from TPA to BNA on 2022-03-01?","answer":"92","type":"flight duration"}
+{"qid":"easy-flight-0081","question":"How long was the flight AS809 from PDX to OGG on 2022-02-11?","answer":"332","type":"flight duration"}
+{"qid":"easy-flight-0087","question":"How long was the flight AA3016 from PSP to PHX on 2022-01-23?","answer":"48","type":"flight duration"}
+{"qid":"easy-flight-0085","question":"How long was the flight AA793 from BHM to DFW on 2022-05-01?","answer":"96","type":"flight duration"}
+{"qid":"easy-flight-0080","question":"How long was the flight NK115 from MCO to BDL on 2022-07-08?","answer":"142","type":"flight duration"}
+{"qid":"easy-flight-0089","question":"How long was the flight AA6030 from PHL to BGR on 2022-05-08?","answer":"77","type":"flight duration"}
+{"qid":"easy-flight-0088","question":"How long was the flight UA5286 from DEN to ICT on 2022-03-11?","answer":"58","type":"flight duration"}
+{"qid":"easy-flight-0084","question":"How long was the flight UA662 from EWR to DFW on 2022-04-22?","answer":"179","type":"flight duration"}
+{"qid":"easy-flight-0082","question":"How long was the flight UA5045 from DVL to JMS on 2022-03-10?","answer":"31","type":"flight duration"}
+{"qid":"easy-flight-0083","question":"How long was the flight DL441 from DTW to ATL on 2022-05-09?","answer":"81","type":"flight duration"}
+{"qid":"easy-flight-0007","question":"What was the departure time of the WN2392 flight from PDX to OAK on 2022-04-12?","answer":"13:18","type":"flight departure time"}
+{"qid":"easy-flight-0008","question":"What was the departure time of the F9124 flight from JAX to SJU on 2022-02-28?","answer":"11:25","type":"flight departure time"}
+{"qid":"easy-flight-0001","question":"What was the departure time of the AA4869 flight from HHH to CLT on 2022-05-06?","answer":"12:16","type":"flight departure time"}
+{"qid":"easy-flight-0005","question":"What was the departure time of the DL2759 flight from MCO to DTW on 2022-05-14?","answer":"16:49","type":"flight departure time"}
+{"qid":"easy-flight-0004","question":"What was the departure time of the DL414 flight from LGA to ATL on 2022-02-07?","answer":"18:45","type":"flight departure time"}
+{"qid":"easy-flight-0002","question":"What was the departure time of the DL5172 flight from SBN to ATL on 2022-01-03?","answer":"12:33","type":"flight departure time"}
+{"qid":"easy-flight-0000","question":"What was the departure time of the AA2319 flight from MIA to LAS on 2022-06-05?","answer":"21:43","type":"flight departure time"}
+{"qid":"easy-flight-0009","question":"What was the departure time of the AA2792 flight from SAT to DFW on 2022-01-07?","answer":"7:51","type":"flight departure time"}
+{"qid":"easy-flight-0006","question":"What was the departure time of the DL82 flight from MEM to ATL on 2022-01-18?","answer":"12:53","type":"flight departure time"}
+{"qid":"easy-flight-0003","question":"What was the departure time of the DL891 flight from SEA to LAX on 2022-01-22?","answer":"11:54","type":"flight departure time"}
+{"qid":"easy-flight-0098","question":"How many minutes did the DL4967 flight take to taxi in on 2022-04-13?","answer":"9","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0096","question":"How many minutes did the AA4804 flight take to taxi in on 2022-02-20?","answer":"8","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0099","question":"How many minutes did the WN2517 flight take to taxi in on 2022-04-01?","answer":"3","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0097","question":"How many minutes did the B6623 flight take to taxi in on 2022-05-05?","answer":"32","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0091","question":"How many minutes did the AS617 flight take to taxi in on 2022-02-26?","answer":"11","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0095","question":"How many minutes did the WN1537 flight take to taxi in on 2022-03-13?","answer":"5","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0093","question":"How many minutes did the UA450 flight take to taxi in on 2022-07-31?","answer":"4","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0094","question":"How many minutes did the AA802 flight take to taxi in on 2022-03-25?","answer":"12","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0090","question":"How many minutes did the DL3538 flight take to taxi in on 2022-06-26?","answer":"3","type":"minutes taking to taxi in"}
+{"qid":"easy-flight-0092","question":"How many minutes did the WN1069 flight take to taxi in on 2022-02-02?","answer":"6","type":"minutes taking to taxi in"}
+{"qid":"hard-flight-0039","question":"How many flights with a distance greater than 300 miles on 2022-07-02?","answer":"15166","type":"flights with long distance"}
+{"qid":"hard-flight-0032","question":"How many flights with a distance greater than 300 miles on 2022-03-18?","answer":"16556","type":"flights with long distance"}
+{"qid":"hard-flight-0035","question":"How many flights with a distance greater than 300 miles on 2022-03-15?","answer":"14833","type":"flights with long distance"}
+{"qid":"hard-flight-0036","question":"How many flights with a distance greater than 300 miles on 2022-01-03?","answer":"16685","type":"flights with long distance"}
+{"qid":"hard-flight-0034","question":"How many flights with a distance greater than 300 miles on 2022-04-15?","answer":"16515","type":"flights with long distance"}
+{"qid":"hard-flight-0031","question":"How many flights with a distance greater than 300 miles on 2022-01-09?","answer":"15583","type":"flights with long distance"}
+{"qid":"hard-flight-0037","question":"How many flights with a distance greater than 300 miles on 2022-01-09?","answer":"15583","type":"flights with long distance"}
+{"qid":"hard-flight-0038","question":"How many flights with a distance greater than 300 miles on 2022-05-21?","answer":"14135","type":"flights with long distance"}
+{"qid":"hard-flight-0030","question":"How many flights with a distance greater than 300 miles on 2022-01-02?","answer":"16588","type":"flights with long distance"}
+{"qid":"hard-flight-0033","question":"How many flights with a distance greater than 300 miles on 2022-02-25?","answer":"16354","type":"flights with long distance"}
+{"qid":"hard-flight-0043","question":"What is the average airtime of the flights from CLT to MOB host by Capital Cargo International?","answer":"85.6","type":"average airtime"}
+{"qid":"hard-flight-0042","question":"What is the average airtime of the flights from ITO to OGG host by Hawaiian Airlines Inc.?","answer":"24.9","type":"average airtime"}
+{"qid":"hard-flight-0044","question":"What is the average airtime of the flights from CHO to CLT host by Capital Cargo International?","answer":"48.3","type":"average airtime"}
+{"qid":"hard-flight-0045","question":"What is the average airtime of the flights from AMA to DFW host by Mesa Airlines Inc.?","answer":"49.3","type":"average airtime"}
+{"qid":"hard-flight-0047","question":"What is the average airtime of the flights from ORF to ORD host by Envoy Air?","answer":"114.2","type":"average airtime"}
+{"qid":"hard-flight-0046","question":"What is the average airtime of the flights from SMF to OGG host by Hawaiian Airlines Inc.?","answer":"307.7","type":"average airtime"}
+{"qid":"hard-flight-0049","question":"What is the average airtime of the flights from DLH to ORD host by Air Wisconsin Airlines Corp?","answer":"72.0","type":"average airtime"}
+{"qid":"hard-flight-0041","question":"What is the average airtime of the flights from MKE to CLT host by Comair Inc.?","answer":"95.2","type":"average airtime"}
+{"qid":"hard-flight-0048","question":"What is the average airtime of the flights from MSP to MYR host by Spirit Air Lines?","answer":"130.5","type":"average airtime"}
+{"qid":"hard-flight-0040","question":"What is the average airtime of the flights from BZN to CLT host by American Airlines Inc.?","answer":"198.2","type":"average airtime"}
+{"qid":"hard-flight-0050","question":"How many unique flights from SLC to EWR host by United Air Lines Inc.?","answer":7,"type":"flights from A to B"}
+{"qid":"hard-flight-0051","question":"How many unique flights from JFK to IND host by Endeavor Air Inc.?","answer":5,"type":"flights from A to B"}
+{"qid":"hard-flight-0055","question":"How many unique flights from FNT to ORD host by GoJet Airlines, LLC d/b/a United Express?","answer":3,"type":"flights from A to B"}
+{"qid":"hard-flight-0053","question":"How many unique flights from ATL to CLE host by Spirit Air Lines?","answer":1,"type":"flights from A to B"}
+{"qid":"hard-flight-0059","question":"How many unique flights from DSM to CLT host by American Airlines Inc.?","answer":6,"type":"flights from A to B"}
+{"qid":"hard-flight-0056","question":"How many unique flights from AVL to CLT host by Comair Inc.?","answer":19,"type":"flights from A to B"}
+{"qid":"hard-flight-0052","question":"How many unique flights from MSO to DEN host by Frontier Airlines Inc.?","answer":1,"type":"flights from A to B"}
+{"qid":"hard-flight-0058","question":"How many unique flights from ITO to LAX host by United Air Lines Inc.?","answer":2,"type":"flights from A to B"}
+{"qid":"hard-flight-0057","question":"How many unique flights from CLE to ORD host by Air Wisconsin Airlines Corp?","answer":3,"type":"flights from A to B"}
+{"qid":"hard-flight-0054","question":"How many unique flights from ATW to ORD host by Air Wisconsin Airlines Corp?","answer":13,"type":"flights from A to B"}

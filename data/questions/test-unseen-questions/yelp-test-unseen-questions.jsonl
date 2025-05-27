@@ -1,0 +1,55 @@
+{"qid":"easy-yelp-0007","question":"What is the address of Domino's Pizza in area with postal code 08103?","answer":"446 S Broadway","type":"address"}
+{"qid":"easy-yelp-0001","question":"What is the address of Smilies in area with postal code T5V 1H9?","answer":"15003 118 Ave","type":"address"}
+{"qid":"easy-yelp-0005","question":"What is the address of Level Seven Salon in area with postal code 19460?","answer":"427 Schuylkill Rd","type":"address"}
+{"qid":"easy-yelp-0003","question":"What is the address of FedEx Office Print & Ship Center in area with postal code 33612?","answer":"2798 E Fowler Ave","type":"address"}
+{"qid":"easy-yelp-0004","question":"What is the address of Walmart Supercenter in area with postal code 37211?","answer":"5824 Nolensville Pike, 4040 Nolensville Pike","type":"address"}
+{"qid":"easy-yelp-0002","question":"What is the address of Cutting Edge Upholstery Solutions in area with postal code 33611?","answer":"4338 S Manhattan Ave","type":"address"}
+{"qid":"easy-yelp-0000","question":"What is the address of Snip Philadelphia in area with postal code 19130?","answer":"2052 Fairmount Ave","type":"address"}
+{"qid":"easy-yelp-0009","question":"What is the address of 7-Eleven in area with postal code 37203?","answer":"3400 West End Ave","type":"address"}
+{"qid":"easy-yelp-0006","question":"What is the address of Legacy Park Apartments in area with postal code 46112?","answer":"6750 Legacy Park Dr","type":"address"}
+{"qid":"easy-yelp-0008","question":"What is the address of Best Auto Detailz in area with postal code T6B 3C5?","answer":"6916 68 Avenue NW","type":"address"}
+{"qid":"easy-yelp-0094","question":"What are the coordinates of Chal-Brit Beverages in area with postal code 18914, Chalfont, PA?","answer":"40.2893931, -75.1994282","type":"coordinates"}
+{"qid":"easy-yelp-0095","question":"What are the coordinates of Italian Bistro in area with postal code 19152, Philadelphia, PA?","answer":"40.0731939, -75.0352627","type":"coordinates"}
+{"qid":"easy-yelp-0091","question":"What are the coordinates of Holiday Inn Express Nashville W I40\/Whitebridge Rd in area with postal code 37209, Nashville, TN?","answer":"36.1484039504, -86.8590614945","type":"coordinates"}
+{"qid":"easy-yelp-0097","question":"What are the coordinates of Zachs Famous Donair in area with postal code T6K 3L6, Edmonton, AB?","answer":"53.4722697, -113.4504354","type":"coordinates"}
+{"qid":"easy-yelp-0098","question":"What are the coordinates of Nicholson Cleaners in area with postal code 37203, Nashville, TN?","answer":"36.1483514, -86.8079997","type":"coordinates"}
+{"qid":"easy-yelp-0093","question":"What are the coordinates of Ada County in area with postal code 83704, Boise, ID?","answer":"43.6089445, -116.2873523","type":"coordinates"}
+{"qid":"easy-yelp-0092","question":"What are the coordinates of Kary's Beauty Salon in area with postal code 19148, Philadelphia, PA?","answer":"39.9288599, -75.1566897","type":"coordinates"}
+{"qid":"easy-yelp-0096","question":"What are the coordinates of D & B Tailors in area with postal code 19073, Newtown Square, PA?","answer":"39.9875334, -75.4001299","type":"coordinates"}
+{"qid":"easy-yelp-0099","question":"What are the coordinates of NTB-National Tire & Battery in area with postal code 37027, Brentwood, TN?","answer":"35.9617839364, -86.8168482184","type":"coordinates"}
+{"qid":"easy-yelp-0044","question":"What is the star rating of The Home Depot in area with postal code 08081, Sicklerville, NJ?","answer":"2.0","type":"star rating"}
+{"qid":"easy-yelp-0039","question":"What is the star rating of Perenn Bakery in area with postal code 89511, Reno, NV?","answer":"4.5","type":"star rating"}
+{"qid":"easy-yelp-0045","question":"What is the star rating of Golden Donut in area with postal code 19147, Philadelphia, PA?","answer":"3.5","type":"star rating"}
+{"qid":"easy-yelp-0037","question":"What is the star rating of Ent Specialists in area with postal code 89502, Reno, NV?","answer":"3.5","type":"star rating"}
+{"qid":"easy-yelp-0041","question":"What is the star rating of Rural King in area with postal code 62226, Swansea, IL?","answer":"2.5","type":"star rating"}
+{"qid":"easy-yelp-0038","question":"What is the star rating of Homeward Bound Veterinary Services in area with postal code 89523, Reno, NV?","answer":"5.0","type":"star rating"}
+{"qid":"easy-yelp-0043","question":"What is the star rating of The Scented Leaf in area with postal code 85701, Tucson, AZ?","answer":"4.5","type":"star rating"}
+{"qid":"easy-yelp-0040","question":"What is the star rating of Hermann London Real Estate Group in area with postal code 63143, St. Louis, MO?","answer":"3.0","type":"star rating"}
+{"qid":"easy-yelp-0042","question":"What is the star rating of Red Mango in area with postal code 19153, Philadelphia, PA?","answer":"3.0","type":"star rating"}
+{"qid":"hard-yelp-0014","question":"How many businesses are there in T6V 1B1 area of Edmonton, AB?","answer":5,"type":"business in total"}
+{"qid":"hard-yelp-0016","question":"How many businesses are there in T5Y 2W7 area of Edmonton, AB?","answer":5,"type":"business in total"}
+{"qid":"hard-yelp-0013","question":"How many businesses are there in T6H 1M2 area of Edmonton, AB?","answer":1,"type":"business in total"}
+{"qid":"hard-yelp-0017","question":"How many businesses are there in T8H 2A2 area of Sherwood Park, AB?","answer":3,"type":"business in total"}
+{"qid":"hard-yelp-0015","question":"How many businesses are there in T5N 1R1 area of Edmonton, AB?","answer":3,"type":"business in total"}
+{"qid":"hard-yelp-0019","question":"How many businesses are there in T5P 2S1 area of Edmonton, AB?","answer":1,"type":"business in total"}
+{"qid":"hard-yelp-0011","question":"How many businesses are there in T5L 2L4 area of Edmonton, AB?","answer":1,"type":"business in total"}
+{"qid":"hard-yelp-0010","question":"How many businesses are there in 18917 area of Dublin, PA?","answer":25,"type":"business in total"}
+{"qid":"hard-yelp-0012","question":"How many businesses are there in 19120 area of Philadelphia, PA?","answer":161,"type":"business in total"}
+{"qid":"hard-yelp-0018","question":"How many businesses are there in 08026 area of Gibbsboro, NJ?","answer":18,"type":"business in total"}
+{"qid":"hard-yelp-0041","question":"What is the average review counts of businesses within a 5-mile radius from Residence Inn Tampa Suncoast Parkway at NorthPointe Village?","answer":28.08,"type":"average review counts"}
+{"qid":"hard-yelp-0044","question":"What is the average review counts of businesses within a 5-mile radius from Sublime Yoga and Wellness?","answer":"45.92","type":"average review counts"}
+{"qid":"hard-yelp-0045","question":"What is the average review counts of businesses within a 5-mile radius from Duvall Flooring?","answer":"48.89","type":"average review counts"}
+{"qid":"hard-yelp-0048","question":"What is the average review counts of businesses within a 5-mile radius from Maro Brothers' Discount Liquor Mart?","answer":"23.50","type":"average review counts"}
+{"qid":"hard-yelp-0049","question":"What is the average review counts of businesses within a 5-mile radius from Studio 210 Salon?","answer":"37.40","type":"average review counts"}
+{"qid":"hard-yelp-0046","question":"What is the average review counts of businesses within a 5-mile radius from Bala Institute of Oral Surgery?","answer":"68.82","type":"average review counts"}
+{"qid":"hard-yelp-0040","question":"What is the average review counts of businesses within a 5-mile radius from Uptown Delivery Pharmacy?","answer":"94.10","type":"average review counts"}
+{"qid":"hard-yelp-0083","question":"What is the average star rating of Asian Fusion businesses in Ladue?","answer":3.0,"type":"average star rating"}
+{"qid":"hard-yelp-0082","question":"What is the average star rating of Body Shops businesses in Brentwood?","answer":3.1,"type":"average star rating"}
+{"qid":"hard-yelp-0086","question":"What is the average star rating of Local Services businesses in Mount Holly?","answer":3.4,"type":"average star rating"}
+{"qid":"hard-yelp-0088","question":"What is the average star rating of Structural Engineers businesses in Philadelphia?","answer":1.0,"type":"average star rating"}
+{"qid":"hard-yelp-0080","question":"What is the average star rating of Limos businesses in St. Ann?","answer":5.0,"type":"average star rating"}
+{"qid":"hard-yelp-0084","question":"What is the average star rating of Pet Groomers businesses in Hermitage?","answer":2.8,"type":"average star rating"}
+{"qid":"hard-yelp-0081","question":"What is the average star rating of Television Service Providers businesses in Saint Petersburg?","answer":1.5,"type":"average star rating"}
+{"qid":"hard-yelp-0089","question":"What is the average star rating of Fitness & Instruction businesses in Ladue?","answer":4.5,"type":"average star rating"}
+{"qid":"hard-yelp-0085","question":"What is the average star rating of Car Buyers businesses in Woodbury?","answer":2.0,"type":"average star rating"}
+{"qid":"hard-yelp-0087","question":"What is the average star rating of Arts & Entertainment businesses in Florissant?","answer":2.5,"type":"average star rating"}

@@ -1,0 +1,14 @@
+{"qid":"easy-flight-0028","question":"What is the flight number of the Delta Air Lines Inc. flight from ATL to MIA on 2022-01-27?","answer":"1372, 1381, 1538, 2251, 2279, 2301, 2352, 2860","type":"flight number"}
+{"qid":"easy-flight-0031","question":"How long was the different between the CRS recorded departure time and actual departure time of the WN573 flight from PHX to SMF on 2022-04-15?","answer":"30","type":"time difference"}
+{"qid":"easy-flight-0041","question":"How long did UA5482 delay when arrival on 2022-06-06? If there are multiple delay times, report the sum of them.","answer":"124.0","type":"delay of arrival time"}
+{"qid":"easy-flight-0016","question":"Was the flight WN5333 from RDU to BWI cancelled on 2022-01-08?","answer":"No","type":"yes or no"}
+{"qid":"easy-flight-0051","question":"How many extra minutes did the DL2058 flight take from MCO to RDU on 2022-04-13?","answer":"0.0","type":"extra minutes"}
+{"qid":"easy-flight-0069","question":"What was the local arrival time of the DL5165 flight from XNA to MSP on 2022-01-17?","answer":"19:00","type":"local arrival time"}
+{"qid":"easy-flight-0077","question":"What was the CRS-recorded arrival time of the B61586 flight from MCO to BUF on 2022-05-23?","answer":"17:06","type":"CRS-recorded arrival time"}
+{"qid":"hard-flight-0000","question":"What percentage of the flights from PIT were canceled on 2022-05-17?","answer":"1.7%","type":"percentage"}
+{"qid":"hard-flight-0012","question":"What is the average delay time of all the flights that departed from TBN on 2022-05-23?","answer":"0.0","type":"average delay time"}
+{"qid":"hard-flight-0029","question":"How many flights were diverted on 2022-01-27?","answer":"44","type":"diverted flights"}
+{"qid":"hard-flight-0063","question":"What is the average flight time of G4886?","answer":"144.0","type":"average flight time"}
+{"qid":"hard-flight-0077","question":"What is the fastest flight from AKN to ANC on Wednesday?","answer":"AS2134","type":"fastest flight"}
+{"qid":"hard-flight-0084","question":"What is the average speed of UA6124 from HSV to ORD (miles per minute)?","answer":"5.7","type":"average speed"}
+{"qid":"hard-flight-0096","question":"What is the total number of flights operated by Frontier Airlines Inc. on 2022-04-10?","answer":"453","type":"total number"}
